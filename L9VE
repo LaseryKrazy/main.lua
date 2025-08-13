@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage"):WaitForChild("AdminRankEvent"):FireServer()
+
+game:GetService("ReplicatedStorage"):WaitForChild("CarpetEvent"):FireServer()
+
+game:GetService("ReplicatedStorage"):WaitForChild("LazerGunEvent"):FireServer()
